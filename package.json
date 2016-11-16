@@ -1,0 +1,11 @@
+{
+  "name": "modern-architect-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nathaniel \"Hectate\" Mitchell",
+  "license": "MIT"
+}
